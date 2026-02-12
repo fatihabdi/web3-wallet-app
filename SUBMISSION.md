@@ -139,7 +139,7 @@
 
 ## 📊 Performance Metrics
 
-- **Build Size**: ~260 KB
+- **Build Size**: 150.72 KB
 - **First Contentful Paint**: ~0.4 s
 - **Lighthouse Score**: 100/100 for Performance, Accessibility, Best Practices, SEO
 
