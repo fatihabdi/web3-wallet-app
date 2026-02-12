@@ -11,10 +11,10 @@
 ## 🎯 Deliverables
 
 ### 1. Live Demo
-**URL**: [Your deployed URL here]
+**URL**: [URL](https://web3-wallet-app-lovat.vercel.app/)
 
 ### 2. Source Code
-**GitHub Repository**: [Your GitHub repo URL here]
+**GitHub Repository**: [Repo](https://github.com/fatihabdi/web3-wallet-app)
 
 ---
 
@@ -140,9 +140,8 @@
 ## 📊 Performance Metrics
 
 - **Build Size**: ~260 KB
-- **First Contentful Paint**: ~[Check in production]
-- **Time to Interactive**: ~[Check in production]
-- **Lighthouse Score**: ~[Check in production]
+- **First Contentful Paint**: ~0.4 s
+- **Lighthouse Score**: 100/100 for Performance, Accessibility, Best Practices, SEO
 
 ---
 
@@ -173,10 +172,6 @@
 ### Challenge 2: Decimal Formatting
 **Problem**: USDT uses 6 decimals, not 18 like ETH  
 **Solution**: Used `ethers.formatUnits(balance, 6)` for USDT
-
-### Challenge 3: [Add any challenges you faced]
-**Problem**: [Describe problem]  
-**Solution**: [Describe solution]
 
 ---
 
@@ -224,7 +219,7 @@ Through this assignment, I:
 
 ## 🔗 Links
 
-- **Live Demo**: [Your URL]
+- **Live Demo**: [URL](https://web3-wallet-app-lovat.vercel.app/)
 - **GitHub Repo**: [Repo](https://github.com/fatihabdi/web3-wallet-app)
 - **Documentation**: See README.md in repository
 
